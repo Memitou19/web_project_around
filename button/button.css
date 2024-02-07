@@ -1,0 +1,64 @@
+.profile__edit-button {
+    width: 24px;
+    height: 24px;
+    margin: auto;
+    background: none;
+    border: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.profile__edit-button:hover {
+    opacity: 60%;
+    cursor: pointer;
+}
+
+.profile__add-button {
+    width: 150px;
+    height: 50px;
+    border-radius: 2px;
+    margin: auto;
+    background: none;
+    border: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.profile__add-button:hover {
+    opacity: 60%;
+    cursor: pointer;
+}
+
+.button_type-like {
+    width: 20.56px;
+    height: 18.13px;
+    margin: auto;
+    background: none;
+    border: none; 
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.button_type-like:hover {
+    opacity: 50%;
+    cursor: pointer;
+}
+
+
+@media screen and (min-width: 320px) {
+    .profile__edit-button {
+        width: 18px;
+        height: 18px;
+
+    }
+
+    .profile__add-button {
+        width: 282px;
+        align-items: center;
+        margin: auto;
+        padding-top: 50px;
+    }
+}
+

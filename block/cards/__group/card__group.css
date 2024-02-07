@@ -1,0 +1,5 @@
+.card__group {
+    background: #FFFFFF;
+    display: flex;
+    border-radius: 10px;
+}
