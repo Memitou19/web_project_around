@@ -9,7 +9,6 @@ Figma
 Diseño responsivo
 JavaScript
 Grid
-Diseño responsivo
 ### Descripcion del proyecto
 Este proyecto trata de crear una pagina web en las que se muestran un par de fotografias y un perfil en donde estaran pablicadas. Se le dara accion a la edicion del perfil y a los botones de guardar, esta sera la enseñanza de este sprint.
 #### Diseño utilizado:
