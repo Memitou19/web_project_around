@@ -3,8 +3,14 @@
     background: #000000;
 }
 
+@media screen and (max-width:1281px) {
+    .page {
+        width: 100%;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .page {
-        width: 320px;
+        width: 100%;
     }
 }

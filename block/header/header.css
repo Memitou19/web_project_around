@@ -4,6 +4,19 @@
     padding-top: 45px;
 }
 
+@media screen and (max-width: 880px) {
+    .header {
+        width: 880px;
+        margin: auto;
+    }
+
+    .header__line {
+        width: 880px;
+    }
+
+    
+}
+
 @media screen and (max-width: 320px) {
     .header {
         width: 320px;
