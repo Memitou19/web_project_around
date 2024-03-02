@@ -29,6 +29,7 @@
     padding: 34px 36px;
     place-items: center;
     display: flex;
+    position: relative;
   }
   
   .popup__close-button {
@@ -40,8 +41,8 @@
     box-sizing: border-box;
     border: none;
     position: absolute;
-    top: 220px;
-    left: 850px;
+    top: -30px;
+    left: -40px;
     background-color: #00000026;
   }
   
